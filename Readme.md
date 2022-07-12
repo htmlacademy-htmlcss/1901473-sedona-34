@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Дмитрий Лалов](https://up.htmlacademy.ru/htmlcss/34/user/2058413).
-* Наставник: `Максим Ворожцов`.
+* Студент: [Станислав Пащенко](https://up.htmlacademy.ru/htmlcss/34/user/1901473).
+* Наставник: `Ирина Малиновская`.
 
 ---
 
@@ -18,7 +18,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/2058413-sedona-34) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/1901473-sedona-34) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037949-67a635d6-7bae-11e7-9f2f-1a48fde231b9.jpg">
 
