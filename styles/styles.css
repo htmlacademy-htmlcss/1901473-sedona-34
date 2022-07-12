@@ -392,15 +392,6 @@ img {
   margin-bottom: 30px;
 }
 
-
-.advantages-list-more .advantages-item-wrapper {
-  padding-top: 193px;
-}
-
-.advantages-list-more .advantages-title {
-  margin-bottom: 20px;
-}
-
 .advantages-item:nth-child(4n) .advantages-item-wrapper {
   background: rgba(131, 179, 211, 0.2);
 }
@@ -539,6 +530,7 @@ img {
 .newsletter-description {
   font-size: 22px;
   line-height: 26px;
+  padding-left: 3px;
   text-align: center;
   color: #FFFFFF;
   margin-top: 0;
@@ -568,6 +560,7 @@ img {
 
 .newsletter-dark {
   background: none;
+  padding-top: 121px;
 }
 
 .newsletter-dark .newsletter-title {
@@ -736,7 +729,8 @@ img {
   display: block;
   margin: 0 auto;
   padding: 10px;
-
+  padding-top: 8px;
+  padding-left: 22px;
   font-size: 40px;
   line-height: 40px;
   color: #000000;
@@ -744,6 +738,7 @@ img {
 }
 .footer-contacts-phone--e {
   padding-left: 20px;
+  padding-top: 11px;
 }
 
 .footer-contacts-phone:hover {
@@ -767,7 +762,7 @@ img {
 }
 
 .footer-contacts-htmlacademy--e {
-  padding-top: 5px;
+  padding-top: 8px;
 }
 .footer-contacts-htmlacademy svg {
   fill: #000000;
@@ -790,7 +785,8 @@ img {
 .filter {
   min-height: 408px;
   padding: 54px 72px 23px;
-
+  padding-top: 48px;
+  padding-left: 71px;
   line-height: 23px;
   color: #ffffff;
 
@@ -812,6 +808,8 @@ img {
   display: flex;
   align-items: baseline;
   margin-left: -10px;
+  padding-top: 13px;
+  padding-left: 4px;
 }
 
 .breadcrumbs-item {
@@ -867,7 +865,7 @@ img {
 }
 
 .catalog-filter {
-  padding-top: 41px;
+  padding-top: 33px;
 }
 
 .catalog-filter-form {
@@ -889,7 +887,7 @@ img {
 .catalog-filter-title {
   margin-bottom: 31px;
   padding: 0;
-
+  height: 27px;
   font-weight: 700;
   font-size: 20px;
   line-height: 26px;
@@ -1175,7 +1173,8 @@ img {
 }
 
 .hotel-card-more {
-  margin-right: 26px;
+  margin-right: 20px;
+  width:140px;
 }
 
 .meaning {
@@ -1297,6 +1296,7 @@ img {
 
 .hotel-card {
   padding: 20px;
+  padding-top: 30px;
 }
 
 .hotel-card-image {
@@ -1343,7 +1343,7 @@ img {
 
 .hotel-card-more,
 .hotel-card-favorites {
-  width: 133px;
+  width: 140px;
   padding-top: 9px;
   padding-bottom: 10px;
 
@@ -1366,7 +1366,7 @@ img {
 
 
 .hotel-card-favorites {
-  width: 133px;
+  width: 140px;
 
   background: #83b3d3;
 }
@@ -1403,7 +1403,7 @@ img {
 }
 
 .rating {
-  width: 160px;
+  width: 140px;
   margin: 0;
 
   font-size: 16px;
@@ -1421,15 +1421,15 @@ img {
   align-items: center;
   padding: 29px 0;
   grid-column-gap: 292px;
-  grid-template-columns: auto auto;
+  grid-template-columns: 410px auto;
 }
 
 .pagination-link {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-width: 55px;
-  min-height: 55px;
+  min-width: 60px;
+  min-height: 60px;
 
   font-weight: 700;
   font-size: 20px;
